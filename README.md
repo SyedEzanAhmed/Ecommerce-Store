@@ -7,7 +7,7 @@ This project is designed to create a functional e-commerce platform where users 
 
 ## ACKNOWLEDGEMENT
 
-I would like to express my sincere gratitude to my teacher, **Sir Usama**, for his invaluable guidance, support, and expertise throughout the development of this project. His insights and feedback have been instrumental in shaping this application.
+I would like to express my sincere gratitude to my teacher, **Sir Abdul Qadir**, for his invaluable guidance, support, and expertise throughout the development of this project. His insights and feedback have been instrumental in shaping this application.
 
 I also extend my thanks to **Bano Qabil Institute** for providing the platform and resources that have enabled me to learn and create this project.
 
